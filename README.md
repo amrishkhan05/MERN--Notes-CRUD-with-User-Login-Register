@@ -1,4 +1,4 @@
-# msysTodoApp
+# MERN Notes App with Login and Register
 A simple nodejs application with ejs.
 This Application has 
 1.login , register features
